@@ -43,6 +43,6 @@ Published in [Genome Biology (2022)](https://genomebiology.biomedcentral.com/art
 
 * **[TLC5940 Raspberry Pi Driver](https://github.com/lrvdijk/tlc5940-raspberry)**. The TLC5940 is a commonly used LED driver chip that can drive up to 16 high-brightness LEDs with a single SPI interface. This C++ library provides a simple interface to control the TLC5940 from a Raspberry Pi.
 
-### Data visualization
+### 📊 Data visualization
 
 * **[Visualizing the height of the Netherlands](https://github.com/lrvdijk/nl-height)**. Data preprocessing and visualiztion scripts to explore the height of the Netherlands. Built with PostgreSQL+PostGIS and d3.js. For the visualization, [see my blog post](https://lucasvandijk.nl/2018/02/visualizing-the-height-of-the-netherlands/).
