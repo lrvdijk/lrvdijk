@@ -3,7 +3,7 @@
 I am a software engineer and computational biologist with a strong background
 algorithm design, machine learning, and genomic data analysis.
 I am comfortable with low-level performance engineering in languages such as C++ and Rust,
-and experiences with high-level data analysis and visualization in Python and JavaScript.
+and experienced with high-level data analysis and visualization in Python and JavaScript.
 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="25">
