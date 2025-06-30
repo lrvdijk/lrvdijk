@@ -45,6 +45,10 @@ Published in [Genome Biology (2022)](https://genomebiology.biomedcentral.com/art
 
 ## Old projects
 
+### 🥳 Social and fun
+
+* **[Reddit /r/place headless pixel placement bot](https://github.com/PlaceNL2022/rPlace2022)**. A headless bot written in Python that would place pixels on Reddit's /r/place canvas during its 2022 April Fool's event. It obtains instructions from a command and control server, and would automatically login to Reddit and submit the correct pixel color.
+
 ### 💻 Embedded software and electronics
 
 * **[TLC5940 Raspberry Pi Driver](https://github.com/lrvdijk/tlc5940-raspberry)**. The TLC5940 is a commonly used LED driver chip that can drive up to 16 high-brightness LEDs with a single SPI interface. This C++ library provides a simple interface to control the TLC5940 from a Raspberry Pi.
