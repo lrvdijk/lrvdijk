@@ -11,8 +11,7 @@ algorithm design, machine learning, and genomic data analysis.
 
 ## Interests
 
-* Machine learning
-* Multi-modal data integration (genomic, transcriptomic, and proteomic)
+* Machine learning for multi-modal data integration (genomic, transcriptomic, and proteomic)
 * Protein language models
 * Sequence alignment algorithms
 * Microbiome and metagenomics
