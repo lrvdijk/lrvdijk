@@ -52,8 +52,9 @@ Published in [Genome Biology (2022)](https://genomebiology.biomedcentral.com/art
 
 ### 💻 Embedded software and electronics
 
-* **[TLC5940 Raspberry Pi Driver](https://github.com/lrvdijk/tlc5940-raspberry)**. The TLC5940 is a commonly used LED driver chip that can drive up to 16 high-brightness LEDs with a single SPI interface. This C++ library provides a simple interface to control the TLC5940 from a Raspberry Pi.
+* **[TLC5940 Raspberry Pi Driver](https://github.com/lrvdijk/tlc5940-raspberry)**. The TLC5940 is a commonly used LED driver chip that can drive up to 16 LEDs (but they can be chained). This C++ library provides a simple interface to control the TLC5940 from a Raspberry Pi.
 
 ### 📊 Data visualization
 
+* **[OpenGL-powered graph visualization system in VisPy](https://vispy.org)**. As part of the Google Summer of Code 2015, I contributed an OpenGL-powered graph visualization system in VisPy. I additionally blogged how to [draw arbitrary shapes using OpenGL](https://lucasvandijk.nl/2015/06/drawing-arbitrary-shapes-with-opengl-points/).
 * **[Visualizing the height of the Netherlands](https://github.com/lrvdijk/nl-height)**. Data preprocessing and visualiztion scripts to explore the height of the Netherlands. Built with PostgreSQL+PostGIS and d3.js. For the visualization, [see my blog post](https://lucasvandijk.nl/2018/02/visualizing-the-height-of-the-netherlands/).
