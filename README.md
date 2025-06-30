@@ -11,7 +11,7 @@ algorithm design, machine learning, and genomic data analysis.
 * Sequence alignment algorithms
 * Microbiome and metagenomics
 
-## Tools and analyses
+## Bioinformatics tools and analyses
 
 ### 🤖 Protein machine learning and language models
 
@@ -30,4 +30,19 @@ The library includes Python bindings to a fast, memory efficient, and C++-based 
 ### 💩 Microbiome and metagenomics
 
 * **[Strain Genome Explorer (StrainGE)](https://gitub.com/broadinstitute/strainge)**. A toolkit to detect and characterize low-abundance bacterial strain-level genetic diversity in whole metagenomic data.
-Published in [Genome Biology (2022)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02630-0). I used StrainGE to obtain detailed insights into gut and bladder E. coli dynamics of women with recurrent UTIs in a year-long study published in [Nature Microbiology (2022)](https://www.nature.com/articles/s41564-022-01107-x).
+Published in [Genome Biology (2022)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02630-0). I used StrainGE to obtain detailed insights into the gut and bladder E. coli dynamics of women with recurrent UTIs in a year-long study published in [Nature Microbiology (2022)](https://www.nature.com/articles/s41564-022-01107-x).
+
+### 🛠️ Tooling and editors
+
+* **[Zed WDL](https://github.com/broadinstitute/zed-wdl)**. An extension for the code editor [Zed](https://zed.dev/) providing syntax highlighting and code completion support for the Workflow Description Language (WDL).
+* **[dotfiles](https://github.com/lrvdijk/dotfiles)**. My personal configuration files for various tools and editors.
+
+## Old projects
+
+### 💻 Embedded software and electronics
+
+* **[TLC5940 Raspberry Pi Driver](https://github.com/lrvdijk/tlc5940-raspberry)**. The TLC5940 is a commonly used LED driver chip that can drive up to 16 high-brightness LEDs with a single SPI interface. This C++ library provides a simple interface to control the TLC5940 from a Raspberry Pi.
+
+### Data visualization
+
+* **[Visualizing the height of the Netherlands](https://github.com/lrvdijk/nl-height)**. Data preprocessing and visualiztion scripts to explore the height of the Netherlands. Built with PostgreSQL+PostGIS and d3.js. For the visualization, [see my blog post](https://lucasvandijk.nl/2018/02/visualizing-the-height-of-the-netherlands/).
