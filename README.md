@@ -56,5 +56,5 @@ Published in [Genome Biology (2022)](https://genomebiology.biomedcentral.com/art
 
 ### 📊 Data visualization
 
-* **[OpenGL-powered graph visualization system in VisPy](https://vispy.org)**. As part of the Google Summer of Code 2015, I contributed an OpenGL-powered graph visualization system in VisPy: I added OpenGL visuals required for displaying graphs and implemented several automatic graph layout algorithms. I additionally blogged how to [draw arbitrary shapes using OpenGL points](https://lucasvandijk.nl/2015/06/drawing-arbitrary-shapes-with-opengl-points/).
+* **[OpenGL-powered graph visualization system in VisPy](https://vispy.org)**. As part of the Google Summer of Code 2015, I contributed an OpenGL-powered graph visualization system in VisPy: I added OpenGL visuals required for displaying graphs and implemented several automatic graph layout algorithms. I additionally blogged about how to [draw arbitrary shapes using OpenGL points](https://lucasvandijk.nl/2015/06/drawing-arbitrary-shapes-with-opengl-points/).
 * **[Visualizing the height of the Netherlands](https://github.com/lrvdijk/nl-height)**. Data preprocessing and visualiztion scripts to explore the height of the Netherlands. Built with PostgreSQL+PostGIS and d3.js. For the visualization, [see my blog post](https://lucasvandijk.nl/2018/02/visualizing-the-height-of-the-netherlands/).
