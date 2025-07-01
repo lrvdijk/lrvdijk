@@ -32,7 +32,7 @@ and experienced with high-level data analysis and visualization in Python and Ja
 
 ### 🧬 Sequence alignment and graph genomes
 
-* **[POASTA](https://github.com/lrvdijk/poasta)**. A new algorithm for Partial Order Alignment (POA), a form of DNA sequence-to-DAG alignment.
+* **[POASTA](https://github.com/broadinstitute/poasta)**. A new algorithm for Partial Order Alignment (POA), a form of DNA sequence-to-DAG alignment.
 POA is a common component in pangenome graph construction pipelines, such as the pipelines used to construct the human pangenome reference graph \[[1](https://www.nature.com/articles/s41587-023-01793-w), [2](https://www.nature.com/articles/s41592-024-02430-3)\].
 POASTA outperformed existing tools by 4.1x and enabled alignments not possible before, while retaining the guarantee of optimality. Published in [Oxford Bioinformatics (2025)](https://academic.oup.com/bioinformatics/article/41/1/btae757/7942505).
 * **[Pyfrost](https://github.com/broadinstitute/pyfrost)**. A high-performance and low-memory Python library to construct and analyze _compacted, colored de Bruijn graphs_ (ccDBGs).
