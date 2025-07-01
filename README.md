@@ -48,7 +48,7 @@ Published in [Genome Biology (2022)](https://genomebiology.biomedcentral.com/art
 
 ### 🥳 Social and fun
 
-* **[Reddit /r/place headless pixel placement bot](https://github.com/PlaceNL2022/rPlace2022)**. A CLI tool written in Python that would automatically place pixels on Reddit's /r/place canvas during its 2022 April Fool's event. It obtains instructions from a command and control server, and then logins to Reddit and to submit the correct pixel color.
+* **[Reddit /r/place headless pixel placement bot](https://github.com/PlaceNL2022/rPlace2022)**. A CLI tool written in Python that would automatically place pixels on Reddit's /r/place canvas during its 2022 April Fool's event. It obtains instructions from a command and control server, and then logins to Reddit to submit the correct pixel color.
 
 ### 💻 Embedded software and electronics
 
